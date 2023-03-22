@@ -1,0 +1,16 @@
+**Welcome to TWT dine in food ordering platoform**
+
+**Database Name: TWT **
+
+**Developed by Tauqif Muhammad, Goh Wen Chin & Pang Tian You **
+
+**Admin Login Details**
+Email: food@gmail.com
+Password: foodfood
+
+**connect database:
+1. create database name TWT
+2. go to section 'Import' 
+3. click 'Choose File' n pick 'Database File' from ur folder
+4. press go
+**successful connect**
